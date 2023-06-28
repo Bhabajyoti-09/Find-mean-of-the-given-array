@@ -1,0 +1,1 @@
+# Find-mean-of-the-given-array
